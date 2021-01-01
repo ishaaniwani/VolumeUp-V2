@@ -1,0 +1,14 @@
+*.iml
+.gradle
+keystore
+keystore-pass
+example/release
+/local.properties
+/.idea/
+.DS_Store
+/build
+/vad/.cxx
+/vad/build
+/captures
+.externalNativeBuild
+.cxx
